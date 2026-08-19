@@ -1,0 +1,35 @@
+{
+    "name": "皮拉提斯課程管理",
+    "short_name": "Pilates",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F7F3EA",
+    "theme_color": "#183D34",
+    "description": "離線優先的皮拉提斯課程、學員與收款管理系統。",
+    "orientation": "any",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
